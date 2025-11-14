@@ -1,6 +1,6 @@
 # Hi, I'm Emma Luisa👋
 
-I'm a versatile professional with 8 years of experience in tech roles such as full-stack software developer, product manager, sales and Startup founder. Have worked at big tech companies (ex: Meta), startups (Ex: IMS) and co-founded [Warkco](www.warkco.com).
+I'm a versatile professional with 8 years of experience in tech roles such as full-stack software developer, product manager, sales and Startup founder. Career highlights include contributions at major companies (ex: Meta), startups (Ex: IMS) and founding www.warkco.com.
 <br/>Fluent in both 'tech' and 'business', ensuring alignment from the engineering floor to the C-suite and clients.
 <br/>I'm deeply interested in finding solutions to existing needs with technology. 
 <br/>I speak in Spanish, English and Brazilian Portuguese.
