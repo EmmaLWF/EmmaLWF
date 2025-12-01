@@ -126,6 +126,7 @@ As a co-founder of Warkco, my responsibilities as a SWE primarily involved devel
 <img width="912" height="759" alt="Screenshot 2025-11-13 at 11 44 11 AM" src="https://github.com/user-attachments/assets/cc08a63c-3824-4e5a-8b9f-2c984b8230de" />
 <img width="912" height="727" alt="Screenshot 2025-11-13 at 11 43 29 AM" src="https://github.com/user-attachments/assets/1e1590d8-ba15-4f8a-a27e-4c51cffec0cc" />
 <img width="912" height="728" alt="Screenshot 2025-11-13 at 11 43 51 AM" src="https://github.com/user-attachments/assets/7b87785a-83f8-4a76-bc2e-18b64b65a744" />
+<img width="912" height="728" alt="Screenshot 2025-12-01 at 4 45 37 PM" src="https://github.com/user-attachments/assets/78a98ec4-5e5b-435b-a416-0e0b5488b5b3" />
 
 
 ## Cuanto Cuesta
