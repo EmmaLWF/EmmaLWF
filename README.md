@@ -21,6 +21,7 @@ I'm a versatile professional with 8 years of experience in tech roles such as fu
   <img src="https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/Tailwind_CSS-%2306B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
   <img src="https://img.shields.io/badge/styled_components-%23DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white" alt="styled-components">
+  <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="shadcn/ui">
   <img src="https://img.shields.io/badge/Framer-%230055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer">
   <img src="https://img.shields.io/badge/Storybook-%23FF4785?style=for-the-badge&logo=storybook&logoColor=white" alt="Storybook">
   <img src="https://img.shields.io/badge/jQuery-%230769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery">
@@ -113,6 +114,7 @@ As a co-founder of Warkco, my responsibilities as a SWE primarily involved devel
   <img src="https://img.shields.io/badge/TypeScript-%233178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/Tailwind_CSS-%2306B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
+  <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="shadcn/ui">
   <img src="https://img.shields.io/badge/Framer-%230055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer">
 </p>
 
