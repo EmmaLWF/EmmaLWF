@@ -81,27 +81,6 @@ I'm a versatile professional with 8 years of experience in tech roles such as fu
 
 # 🔭 My work:
 
-## [SNB Finance](www.snbweb.org)
-SNB Finance is a SaaS platform for tracking investment returns for investors.
-Our clients are investment funds from various sectors, who use our platform to give investors visibility into which projects their money is invested in and the exact monthly return each project is generating.
-
-##### Tech Stack:
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/TypeScript-%233178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
-  <img src="https://img.shields.io/badge/Next.js-%23000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-%2306B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
-  <img src="https://img.shields.io/badge/PostgreSQL-%234169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/Vercel-%23000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
-  <img src="https://img.shields.io/badge/Zod-%233E67B1?style=for-the-badge&logo=zod&logoColor=white" alt="Zod">
-  <img src="https://img.shields.io/badge/Prisma-%232D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma">
-</p>
-
-<img width="912" height="645" alt="Screenshot 2025-11-13 at 12 34 22 PM" src="https://github.com/user-attachments/assets/0dc15fd3-dede-4577-bb53-befdca5e1b16" />
-<img width="912" height="642" alt="Screenshot 2025-11-13 at 12 38 02 PM" src="https://github.com/user-attachments/assets/c6398f6d-393f-49d8-abc5-50177fcb5702" />
-<img width="912" height="662" alt="Screenshot 2025-11-13 at 12 08 36 PM" src="https://github.com/user-attachments/assets/b84b4011-224c-4125-8683-d06c3462ab41" />
-
  
 ## [Warkco](www.warkco.com)
 
@@ -129,23 +108,26 @@ As a co-founder of Warkco, my responsibilities as a SWE primarily involved devel
 <img width="912" height="728" alt="Screenshot 2025-11-13 at 11 43 51 AM" src="https://github.com/user-attachments/assets/7b87785a-83f8-4a76-bc2e-18b64b65a744" />
 <img width="912" height="728" alt="Screenshot 2025-12-01 at 4 45 37 PM" src="https://github.com/user-attachments/assets/78a98ec4-5e5b-435b-a416-0e0b5488b5b3" />
 
-
-## Cuanto Cuesta
-
-Cuanto Cuesta is a website created to compare prices of products from the 3 largest supermarket chains in Venezuela.
+## [SNB Finance](www.snbweb.org)
+SNB Finance is a SaaS platform for tracking investment returns for investors.
+Our clients are investment funds from various sectors, who use our platform to give investors visibility into which projects their money is invested in and the exact monthly return each project is generating.
 
 ##### Tech Stack:
 <p>
-  <img src="https://img.shields.io/badge/Node.js-%23339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/TypeScript-%233178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/Next.js-%23000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-%2306B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
   <img src="https://img.shields.io/badge/PostgreSQL-%234169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/Express.js-%23000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
-  <img src="https://img.shields.io/badge/Sequelize-%2352B0E7?style=for-the-badge&logo=sequelize&logoColor=white" alt="Sequelize">
-  <img src="https://img.shields.io/badge/Puppeteer_(web_scrapper)-%2340B5A4?style=for-the-badge&logo=puppeteer&logoColor=white" alt="Puppeteer (web scrapper)">
+  <img src="https://img.shields.io/badge/Vercel-%23000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
+  <img src="https://img.shields.io/badge/Zod-%233E67B1?style=for-the-badge&logo=zod&logoColor=white" alt="Zod">
+  <img src="https://img.shields.io/badge/Prisma-%232D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma">
 </p>
 
-<img width="912" height="725" alt="Screenshot 2025-11-12 at 4 58 43 PM" src="https://github.com/user-attachments/assets/a078932a-a7c1-4bfb-813a-9a45d392ba86" />
-
+<img width="912" height="645" alt="Screenshot 2025-11-13 at 12 34 22 PM" src="https://github.com/user-attachments/assets/0dc15fd3-dede-4577-bb53-befdca5e1b16" />
+<img width="912" height="642" alt="Screenshot 2025-11-13 at 12 38 02 PM" src="https://github.com/user-attachments/assets/c6398f6d-393f-49d8-abc5-50177fcb5702" />
+<img width="912" height="662" alt="Screenshot 2025-11-13 at 12 08 36 PM" src="https://github.com/user-attachments/assets/b84b4011-224c-4125-8683-d06c3462ab41" />
 
 ## [Lacrei Saude](https://lacreisaude.com.br/)
 Lacrei Saude is a Brazilian ONG. It's a startup formed by various volunteer teams (FrontEnd, BackEnd, QA, UX/UI, etc.) with more than 8 members per team. During my time at Lacrei Saude, I was one of the 16+ members of the SWE team, specifically on the FrontEnd team.
@@ -167,4 +149,22 @@ Lacrei Saude is a Brazilian ONG. It's a startup formed by various volunteer team
 <img width="912" height="476" alt="Screenshot 2025-11-13 at 1 04 14 PM" src="https://github.com/user-attachments/assets/6199f2eb-a197-4e0e-a51f-e237018f86a6" />
 <img width="912" height="681" alt="Screenshot 2025-11-13 at 11 56 32 AM" src="https://github.com/user-attachments/assets/27f6bb13-dd7b-4f24-bb3d-e6c8e843ce55" />
 <img width="912" height="662" alt="Screenshot 2025-11-13 at 11 59 15 AM" src="https://github.com/user-attachments/assets/7152a9b9-52d5-43ea-a7f3-542a71a74bc9" />
+
+
+## Cuanto Cuesta
+
+Cuanto Cuesta is a website created to compare prices of products from the 3 largest supermarket chains in Venezuela.
+
+##### Tech Stack:
+<p>
+  <img src="https://img.shields.io/badge/Node.js-%23339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/PostgreSQL-%234169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/Express.js-%23000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
+  <img src="https://img.shields.io/badge/Sequelize-%2352B0E7?style=for-the-badge&logo=sequelize&logoColor=white" alt="Sequelize">
+  <img src="https://img.shields.io/badge/Puppeteer_(web_scrapper)-%2340B5A4?style=for-the-badge&logo=puppeteer&logoColor=white" alt="Puppeteer (web scrapper)">
+</p>
+
+<img width="912" height="725" alt="Screenshot 2025-11-12 at 4 58 43 PM" src="https://github.com/user-attachments/assets/a078932a-a7c1-4bfb-813a-9a45d392ba86" />
+
 
