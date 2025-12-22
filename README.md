@@ -85,7 +85,7 @@ I'm a versatile professional with 8 years of experience in tech roles such as fu
 ## [Warkco](www.warkco.com)
 
 Warkco is an administrative and sales system designed for small and medium-sized consumer goods companies in Venezuela. It improves sales team efficiency, streamlines the invoicing process, and provides greater visibility into the business's status.
-As a co-founder of Warkco, my responsibilities as a SWE primarily involved developing our landing page and working on the software's frontend.
+My responsibilities as a SWE primarily involved developing our landing page and working on the software's frontend.
 
 ##### Tech Stack: 
 <p>
