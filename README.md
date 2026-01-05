@@ -38,6 +38,7 @@ I'm a versatile professional with 8 years of experience in tech roles such as fu
   <img src="https://img.shields.io/badge/MongoDB-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
   <img src="https://img.shields.io/badge/Mongoose-%23880000?style=for-the-badge&logoColor=white" alt="Mongoose">
   <img src="https://img.shields.io/badge/RESTful_API-%23005C84?style=for-the-badge&logoColor=white" alt="RESTful API">
+  <img src="https://img.shields.io/badge/GraphQL-%23E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL">
   <img src="https://img.shields.io/badge/Sequelize-%2352B0E7?style=for-the-badge&logo=sequelize&logoColor=white" alt="Sequelize">
   <img src="https://img.shields.io/badge/Prisma-%232D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma">
 </p>
