@@ -1,6 +1,7 @@
 # Hi, I'm Emma Luisa👋
 
 I'm a versatile professional with 8 years of experience in tech roles such as full-stack software developer, product manager, sales and Startup founder. Career highlights include contributions at major companies (ex: Meta), startups (Ex: IMS) and founding www.warkco.com.
+<br/>As a software engineer, I believe a top-tier Full-stack engineer must deeply understand the user just as much as the codebase. I bring a unique blend of robust coding expertise in React, Node.js, TypeScript (among others) across diverse industries, combined with a strong background in Sales and Client Experience. This allows me to build scalable products using modern architectures (PostgreSQL, AWS) that aren't just technically sound, but also intuitive and market-ready—a synergy I've successfully applied while scaling my own startup.
 <br/>Fluent in both 'tech' and 'business', ensuring alignment from the engineering floor to the C-suite and clients.
 <br/>I'm deeply interested in finding solutions to existing needs with technology. 
 <br/>I speak in Spanish, English and Brazilian Portuguese.
